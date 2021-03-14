@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Texas Rinder-Hacksteak mit Tomaten-Jalapenos-Cheddar Käse gratiniert",
+        "subtitle": "an Bratensauce dazu Potato Wedges Fleisch \"Geprüfte Qualität - HESSEN\"",
+        "group": "Fleischgericht",
+        "imageUrl": "https://www.studentenwerk-giessen.de/assets/components/phpthumbof/cache/ec2467css_img_4335.01022f164679dde7289ab9253736b941.jpg",
+        "imageUrlBig": "https://www.maxmanager.de/daten-extern/sw-giessen/html/fotos/big/ec2467css_img_4335.jpg",
+        "prices": {
+            "student": "3,40",
+            "worker": "5,40",
+            "guest": "5,90"
+        }
+    },
+    {
+        "name": "Mediterranes Sojageschnetzeltes",
+        "subtitle": "mit Reisnudeln p.P. 688 kcal • 90 KH • 25g E • 20g F",
+        "group": "mensaVital",
+        "imageUrl": "https://www.studentenwerk-giessen.de/assets/components/phpthumbof/cache/8799c21mr_1.01022f164679dde7289ab9253736b941.jpg",
+        "imageUrlBig": "https://www.maxmanager.de/daten-extern/sw-giessen/html/fotos/big/8799c21mr_1.jpg",
+        "prices": {
+            "student": "2,50",
+            "worker": "4,50",
+            "guest": "5,00"
+        }
+    },
+    {
+        "name": "Mariniertes Schweinenackensteak",
+        "subtitle": "und Kräuterbutter mit Bratensauce und Bratkartoffeln Fleisch und Kartoffeln \"Geprüfte Qualität - HESSEN\"",
+        "group": "Aktion",
+        "imageUrl": "https://www.studentenwerk-giessen.de/assets/components/phpthumbof/cache/4981122en_1.01022f164679dde7289ab9253736b941.jpg",
+        "imageUrlBig": "https://www.maxmanager.de/daten-extern/sw-giessen/html/fotos/big/4981122en_1.jpg",
+        "prices": {
+            "student": "3,00",
+            "worker": "5,00",
+            "guest": "5,50"
+        }
+    },
+    {
+        "name": "Gnocchi \"Spinaci\"",
+        "subtitle": "mit Käse-Sahne-Sauce",
+        "group": "Vegetarisch",
+        "imageUrl": "https://www.studentenwerk-giessen.de/assets/components/phpthumbof/cache/299163mmm_img_3962.01022f164679dde7289ab9253736b941.jpg",
+        "imageUrlBig": "https://www.maxmanager.de/daten-extern/sw-giessen/html/fotos/big/299163mmm_img_3962.jpg",
+        "prices": {
+            "student": "2,70",
+            "worker": "4,70",
+            "guest": "5,20"
+        }
+    },
+    {
+        "name": "Pasta",
+        "subtitle": "mit Sauce Bolognese Fleisch \"Geprüfte Qualität - HESSEN\"",
+        "group": "Pastaria",
+        "imageUrl": "https://www.studentenwerk-giessen.de/assets/components/phpthumbof/cache/7c2e19417_9.01022f164679dde7289ab9253736b941.jpg",
+        "imageUrlBig": "https://www.maxmanager.de/daten-extern/sw-giessen/html/fotos/big/7c2e19417_9.jpg",
+        "prices": {
+            "student": "1,80",
+            "worker": "3,80",
+            "guest": "4,30"
+        }
+    },
+    {
+        "name": "Vollkornpasta",
+        "subtitle": "mit Tomatensauce",
+        "group": "Pastaria",
+        "imageUrl": "https://www.studentenwerk-giessen.de/assets/components/phpthumbof/cache/29c853836_img_3841.01022f164679dde7289ab9253736b941.jpg",
+        "imageUrlBig": "https://www.maxmanager.de/daten-extern/sw-giessen/html/fotos/big/29c853836_img_3841.jpg",
+        "prices": {
+            "student": "1,80",
+            "worker": "3,80",
+            "guest": "4,30"
+        }
+    },
+    {
+        "name": "Pasta",
+        "subtitle": "mit Cheddar-Cheese-Sauce",
+        "group": "Pastaria",
+        "imageUrl": "https://www.studentenwerk-giessen.de/assets/components/phpthumbof/cache/6ce8r615r_img_1343.01022f164679dde7289ab9253736b941.jpg",
+        "imageUrlBig": "https://www.maxmanager.de/daten-extern/sw-giessen/html/fotos/big/6ce8r615r_img_1343.jpg",
+        "prices": {
+            "student": "1,80",
+            "worker": "3,80",
+            "guest": "4,30"
+        }
+    },
+    {
+        "name": "Vegane Süßkartoffelcremesuppe",
+        "subtitle": "in der Schale oder im Teller ",
+        "group": "Suppen-/Eintopfstation",
+        "imageUrl": "https://www.studentenwerk-giessen.de/assets/components/phpthumbof/cache/1nc11_suppenstation_002.01022f164679dde7289ab9253736b941.jpg",
+        "imageUrlBig": "https://www.maxmanager.de/daten-extern/sw-giessen/html/fotos/big/1nc11_suppenstation_002.jpg",
+        "prices": {
+            "student": "ab 0,70",
+            "worker": "ab 0,70",
+            "guest": "ab 0,70"
+        }
+    },
+    {
+        "name": "Klare Gemüsebrühe",
+        "subtitle": "und Reis in der Schale oder im Teller ",
+        "group": "Suppen-/Eintopfstation",
+        "imageUrl": "https://www.studentenwerk-giessen.de/assets/components/phpthumbof/cache/1nc11_suppenstation_002.01022f164679dde7289ab9253736b941.jpg",
+        "imageUrlBig": "https://www.maxmanager.de/daten-extern/sw-giessen/html/fotos/big/1nc11_suppenstation_002.jpg",
+        "prices": {
+            "student": "ab 0,70",
+            "worker": "ab 0,70",
+            "guest": "ab 0,70"
+        }
+    },
+    {
+        "name": "Beilagenauswahl",
+        "subtitle": "feine Erbsen | Blumenkohl polnisch mit Ei und Bröseln | Ofengemüse | Reis | Schupfnudeln | Waldpilzrahmsauce | Kürbis-Limettensauce",
+        "group": "Beilagen",
+        "imageUrl": "https://www.studentenwerk-giessen.de/assets/components/phpthumbof/cache/9m1ec1c1c_beilagen.01022f164679dde7289ab9253736b941.jpg",
+        "imageUrlBig": "https://www.maxmanager.de/daten-extern/sw-giessen/html/fotos/big/9m1ec1c1c_beilagen.jpg",
+        "prices": {}
+    },
+    {
+        "name": "Kartoffelpüree",
+        "subtitle": "mit Kartoffeln aus ökol. Anbau DE-ÖKO-007",
+        "group": "Spezialbeilage",
+        "imageUrl": "https://www.studentenwerk-giessen.de/assets/components/phpthumbof/cache/r96e1rs8m_img_4023.01022f164679dde7289ab9253736b941.jpg",
+        "imageUrlBig": "https://www.maxmanager.de/daten-extern/sw-giessen/html/fotos/big/r96e1rs8m_img_4023.jpg",
+        "prices": {
+            "student": "0,70",
+            "worker": "1,10",
+            "guest": "1,30"
+        }
+    }
+]
